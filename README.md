@@ -1,5 +1,5 @@
 # pyQT-CSITool
-CSITool based on python
+This is an open-source project developed in Python for real-time CSI signal collection, labeling, and playback.
 
 # Run
 ```
