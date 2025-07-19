@@ -6,9 +6,10 @@ CSITool based on python
 python main.py
 ```
 
-# download dataset
+# Download Dataset
 All raw data (".dat" file) can be downloaded at：
-* https://pan.baidu.com/s/1La99unNH-6KYhxrV5LsyVQ?pwd=c46j
+* https://pan.baidu.com/s/1La99unNH-6KYhxrV5LsyVQ?pwd=c46j (Full Dataset)
+* https://ieee-dataport.org/documents/tcs-fall (Partial Dataset)
 
 # Package dependencies
 CSITool can be accessed from https://github.com/dhalperi/linux-80211n-csitool-supplementary.
