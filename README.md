@@ -3,7 +3,9 @@ CSITool based on python
 
 
 # cite
+```
 Zhou Z, Liu Z, Liu Y, Zhao Y, Wang J, Zhang B, Xia Y, Zhang X, Li S. TCS-Fall: Cross-individual fall detection system based on channel state information and time-continuous stack method. Digit Health. 2024 Jun 4;10:20552076241259047. doi: 10.1177/20552076241259047IF: 3.3 Q1 . PMID: 38840661IF: 3.3 Q1 ; PMCID: PMC11151769IF: 3.3 Q1 .
+```
 
 # download dataset
 All raw data (".dat" file) can be downloaded at：
